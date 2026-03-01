@@ -1,0 +1,2 @@
+accuracy,weighted_precision,weighted_recall,weighted_f1,categories,train_rows,test_rows
+0.7492569002123142,0.7486358599692796,0.7492569002123142,0.7489159379677028,"cs.AI,cs.LG,cs.CL",19290,4710
