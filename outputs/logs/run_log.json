@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-03-01T09:55:00.833822",
+  "domain": "Healthcare",
+  "focus_category": "cs.AI",
+  "query_keyword": "diffusion",
+  "k_clusters": 8,
+  "supervised_categories": [
+    "cs.AI",
+    "cs.LG",
+    "cs.CL"
+  ],
+  "notes": "Auto-generated run log for reproducibility."
+}
