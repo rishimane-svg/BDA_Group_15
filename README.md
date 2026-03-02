@@ -64,4 +64,4 @@ All generated artifacts are stored in `outputs/`.
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/BDA_CODE_2_Topic20_A_GRADE_final.ipynb
+jupyter notebook notebooks/BDA_CODE__Topic20_GROUP_15.ipynb
